@@ -6,7 +6,7 @@
       "Building": {
         "Type": "Office",
         "Address": "Greece",
-        "IfcGuid": "16Y9ahzJ5DjhmNdLJbEHS9",
+        "BuildingIfcGuid": "16Y9ahzJ5DjhmNdLJbEHS9",
         "Spaces": {
           "Space": [
             {
