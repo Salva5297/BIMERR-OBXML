@@ -4,7 +4,7 @@
 
 ## BIMERR OBXML FILES
 
-In [this folder](./Examples) we can see an example of an [xml file](./Examples/new.xml), in which from a series of transformations in another xml and later in a [json file](./Examples/new.json), a series of declarative mappings have been used to obtain the [RDF file](./RDF_Examples/obXML.ttl).
+In [this folder](./Examples) we can see an example of an [xml file](./Examples/new.xml), in which from a series of transformations in another xml and later in a [json file](./Examples/new.json), a series of declarative mappings have been used to obtain the [RDF file](./RDF_Examples/new_obXML.ttl).
 
 
 
