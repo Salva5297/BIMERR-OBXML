@@ -16,10 +16,10 @@ Should also install [Java 1.8](https://www.oracle.com/es/java/technologies/javas
     ```
     python3 preprocess.py -p ../Examples/in.xml
     ```
-- Go to [Execute Mappings folder](../Execute%20Mappings)
+- Go to [Execute Mappings folder](../Execute_Mappings)
 - Execute the following command:
     ```
     python3 timer.py 
     ```
     This command will execute [Helio](https://oeg-upm.github.io/helio/), that reads the mappings and transform the data to RDF format.
-- RDF Files will be saved into [Execute Mappings folder](../Execute%20Mappings)
+- RDF Files will be saved into [Execute Mappings folder](../Execute_Mappings)
